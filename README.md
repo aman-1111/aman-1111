@@ -47,7 +47,7 @@
   <a href="https://twitter.com/your_twitter_handle" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
   <a href="https://www.instagram.com/your_instagram_handle/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
   <a href="https://www.linkedin.com/in/amanchaurasia" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
+  <a href="mailto:amanchaurasia687@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
 
 <br><br><br>
