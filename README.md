@@ -14,7 +14,7 @@
 - 🌱 I’m learning **Tkinter, Cybersecurity, and Advanced Python**.
 - 👯 I’m looking to collaborate on **Open Source Projects & AI/ML applications**.
 - 💬 Ask me about **Python, Cybersecurity, and Web Development**.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amanchaurasia) | [Email](mailto:your.email@example.com)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amanchaurasia07) | [Email](mailto:your.email@example.com)
 - ⚡ Fun fact: **I enjoy debugging more than coding sometimes!** 😆
 
 <br><br><br>
