@@ -28,7 +28,7 @@
 - 🔒 [**CyberSec Toolkit**](https://github.com/AmanChaurasia/CyberSecToolkit) - A set of cybersecurity tools for ethical hackers.
 - 🤖 [**Python ML Models**](https://github.com/AmanChaurasia/Python-ML-Models) - Machine learning models built with Python.
 - 🖥️ [**Tkinter UI Framework**](https://github.com/AmanChaurasia/Tkinter-UI) - GUI applications built with Tkinter.
-- 📓 [**Jupyter Notebooks Collection**](https://github.com/AmanChaurasia/Jupyter-Notebooks) - A collection of Python notebooks covering data science, machine learning, and more.
+- 📓 [**Jupyter Notebooks Collection**](https://github.com/aman-1111/Jupyter-Notebooks-Collection) - A collection of Python notebooks covering data science, machine learning, and more.
 
 <br><br><br>
 
