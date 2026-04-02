@@ -6,17 +6,12 @@
 
 <br><br><br>
 
-## 🌟 About Me
+## ⭐ About Me
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" style="margin-bottom: 20px;"/>
-
-- 🔭 I’m currently working on **.NET development & Python projects**.
-- 🌱 I’m learning **Tkinter, Cybersecurity, and Advanced Python**.
-- 👯 I’m looking to collaborate on **Open Source Projects & AI/ML applications**.
-- 💬 Ask me about **Python, Cybersecurity, and Web Development**.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amanchaurasia07/) | [Email](mailto:your.email@example.com)
-- ⚡ Fun fact: **I enjoy debugging more than coding sometimes!** 😆
-
+- 📊 Aspiring Data Analyst focused on Python, SQL, Power BI, and Excel  
+- 📈 Skilled in data cleaning, visualization, and dashboard creation  
+- 🎯 Interested in solving business problems using data  
+- 📫 Reach me at: LinkedIn | Email  
 <br><br><br>
 
 ## 📂 Featured Projects
