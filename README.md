@@ -8,9 +8,10 @@ Focused on transforming data into actionable business insights.
 ## 📊 Featured Projects
 
 - 📈 Supermarket Sales Performance Dashboard (Power BI)  
-- 📊 Amazon Sales Analytics Dashboard  
+- 📊 Amazon Sales Analytics Dashboard | Power BI, Revenue Insights  
 - 🛒 E-commerce Sales Analysis (Python, Pandas)  
 - 👨‍💼 Employee Attrition Analysis Dashboard  
+- 🗄️ SQL Data Analysis Queries (Joins, Aggregations)    
 
 ---
 
