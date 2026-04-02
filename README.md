@@ -23,5 +23,5 @@ Python | SQL | Power BI | Excel | Data Cleaning | Data Visualization
 
 ## 📫 Connect
 
-- LinkedIn: https://linkedin.com/in/amanchaurasia  
+- LinkedIn: https://linkedin.com/in/amanchaurasia07  
 - Email: amanchaurasia687@gmail.com
