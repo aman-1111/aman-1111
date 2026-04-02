@@ -2,7 +2,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" style="margin-bottom: 20px;"/>
 
-<span style="font-size: 32px;">Welcome to my GitHub profile! 🚀 Aspiring Data Analyst with skills in Python, SQL, Power BI, and Excel.  
+<span style="font-size: 32px;">Welcome to my GitHub profile! 🚀 
+Aspiring Data Analyst with skills in Python, SQL, Power BI, and Excel.  
 Focused on analyzing data and generating actionable business insights.</span>
 
 <br><br><br>
